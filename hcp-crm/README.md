@@ -176,6 +176,3 @@ Runs sentiment analysis on the free-text "Topics Discussed" and "Outcomes" field
 | GET | `/api/hcps` | Search HCPs |
 
 ---
-
-GitHub Repo: [to be filled after upload]  
-Submission Form: https://forms.gle/mkgZPhtkFtnvLJCz7
