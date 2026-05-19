@@ -177,7 +177,5 @@ Runs sentiment analysis on the free-text "Topics Discussed" and "Outcomes" field
 
 ---
 
-## Submission
-
 GitHub Repo: [to be filled after upload]  
 Submission Form: https://forms.gle/mkgZPhtkFtnvLJCz7
